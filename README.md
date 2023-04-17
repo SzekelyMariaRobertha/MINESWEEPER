@@ -2,9 +2,8 @@
 This Minesweeper game project is written in Assembly language using the Microsoft Macro Assembler (MASM). The game consists of a grid of tiles, some of which contain hidden mines. The player's objective is to clear the board without detonating any mines. The game is implemented with a simple console-based user interface that allows the player to select tiles and mark them as potentially containing mines.
 
 ## Requirements
-- MASM: This project requires the Microsoft Macro Assembler (MASM) to assemble and run the code (for example Notepad++)
+- MASM: This project requires the Microsoft Macro Assembler (MASM) to see the code (for example Notepad++)
 - Windows OS: This project is designed to run on Windows operating system.
-- Command Prompt: This project runs on a command prompt interface.
 
 ## Usage
 1. Clone or download the repository to your local machine.
